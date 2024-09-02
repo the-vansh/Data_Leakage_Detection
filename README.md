@@ -51,3 +51,32 @@ Follow these steps to set up and run the project:
 ### Build and Run
 
 1.src/dlp DLP.java
+
+## User Functionality
+
+### Sending Files
+
+Users can send files to each other securely.
+
+### Downloading Files
+
+To download a file, a user must provide the correct passkey.
+
+## Admin Control
+
+### Monitoring File Transfers
+
+Admin can monitor all file transfers.
+
+### Detecting Leaked Data
+
+Admin has the authority to identify leaked data by checking unauthorized downloads.
+
+## Acknowledgments
+
+Special thanks to the creators of MySQL Connector and jBCrypt for their valuable contributions.
+
+## Contributors
+
+- **VANSH SAINI**: [GitHub Profile](https://github.com/the-vansh/)
+
