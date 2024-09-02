@@ -30,4 +30,4 @@ Follow these steps to set up and run the project:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/pranjalhere/Data-Leakage-Detection
+   git clone https://github.com/the-vansh/Data_Leakage_Detection.git
