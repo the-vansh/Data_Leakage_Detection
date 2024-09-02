@@ -12,8 +12,8 @@ Before setting up the project, ensure the following prerequisites are met:
 2. Create the necessary tables in the MySQL database:
    - `emp`: User information table.
    - `filedata`: File information table.
-   - `filetransfer`: File transfer information table.
-   - `fileid`: File ID table.
+   - `Receivefile`: Inforamtion of received file.
+   - `Sendfile`:Inforamtion of sent file
 
 ## Libraries Used
 
@@ -31,3 +31,22 @@ Follow these steps to set up and run the project:
 
    ```bash
    git clone https://github.com/the-vansh/Data_Leakage_Detection.git
+
+2. **Open in NetBeans IDE**
+
+1. Open NetBeans IDE.
+2. Import the project.
+
+3. **Configure MySQL Database**
+
+1. Start XAMPP server and ensure MySQL is running.
+2. Create the required tables (`emp`, `filedata`, `Receivefile`, `Sendfile`) in the MySQL database.
+
+### Add Libraries
+
+1. Add the MySQL Connector JAR to the project.
+2. Add the jBCrypt-0.4 JAR to the project.
+
+### Build and Run
+
+1.src/dlp DLP.java
