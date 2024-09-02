@@ -27,17 +27,18 @@ The project relies on the following libraries:
 
 Follow these steps to set up and run the project:
 
-##Clone the Repository
+## Clone the Repository
 
    ```bash
    git clone https://github.com/the-vansh/Data_Leakage_Detection.git
+   ```
 
-##Open in NetBeans IDE
+## Open in NetBeans IDE
 
 1. Open NetBeans IDE.
 2. Import the project.
 
-##Configure MySQL Database
+### Configure MySQL Database
 
 1. Start XAMPP server and ensure MySQL is running.
 2. Create the required tables (`emp`, `filedata`, `Receivefile`, `Sendfile`) in the MySQL database.
